@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+}
+
+body {
+  color: whitesmoke;
+  background-color: darkslategrey;
+}
+
+.add-user-box {
+  color: black;
+  border-radius: 10px;
+  background-color: lightgoldenrodyellow;
+}
+
+.user-list-box {
+  color: black;
+  border-radius: 10px;
+  background-color: lightgoldenrodyellow;
+}
+
+.img {
+  padding: 5px;
+  border: 1px solid black;
+  width: 85px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.list-group-item {
+  background-color: teal;
+}
+
+.list-group-item:hover {
+  cursor: pointer;
+  background-color: lightsalmon;
+}
